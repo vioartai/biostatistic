@@ -1,2 +1,0 @@
-# biostatistic
-bioistatistic project
